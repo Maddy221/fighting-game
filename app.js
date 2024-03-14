@@ -1,6 +1,7 @@
 let lifePoints = 100;
 let botPoints = 100;
 
+
 document.querySelector('#attack').addEventListener('click', playerAttack);
 document.querySelector('#heal').addEventListener('click', playerHeal);
 
